@@ -21,8 +21,8 @@ Copy the link of the repository from the clone button, then run `git clone "the 
 
 Run the command `node app.js` in the directory. Follow the question in order to collect all of the needed information. The application will generate a new `team.html`, in the `./output` folder
 
-![screenshot of command line with questions](./images/screen-shot-1.png)
-![screenshot of html page](./images/screen-shot-2.png)
+![screenshot of command line with questions](./images/screen-shot-1.PNG)
+![screenshot of html page](./images/screen-shot-2.PNG)
 
 [Link to video demo](https://drive.google.com/file/d/1O1wUsOcER-NhlRI_sq6LkrSOiaTrilmN/view)
 
